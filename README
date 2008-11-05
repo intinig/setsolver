@@ -1,0 +1,9 @@
+== SetSolver ==
+
+Simple program to solve Set Puzzles (http://www.setgame.com/set/puzzle_frame.htm)
+
+== Usage ==
+
+$ ./solver.rb card_description card_description card_description card_description
+
+where card_description is a 1 number / 3 letters string (i.e. 3tro). Read about the string in card.rb
